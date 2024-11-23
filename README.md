@@ -11,4 +11,4 @@
 
 [BTS535 Lab 10 Risk Evalutation Chart](BTS535_Lab_9_Risk_Evalutation_Chart.xlsx)
 
-![alt text](Risk_Evalutation_Chart.key)
+![alt text](Risk_Evalutation_Chart.png)
