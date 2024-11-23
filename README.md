@@ -9,6 +9,6 @@
 > - Anurag Das
 > - Japit Singh
 
-[BTS535 Lab 10 Risk Evalutation Chart](BTS535_Lab_9_Risk_Evalutation_Chart.xlsx)
+[BTS535 Lab 10 Risk Evalutation Chart](BTS535_Lab_9_Risk_Evaluation_Chart.xlsx)
 
-![alt text](Risk_Evalutation_Chart.png)
+![alt text](Risk_Evaluation_Chart.png)
